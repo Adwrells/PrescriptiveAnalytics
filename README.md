@@ -2,11 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/Adwrells/PrescriptiveAnalytics/blob/1423dee617f5fdb897fb5f219b3d285cd662feb6/knapsack.png" />
 </div>
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/14qBwRwz04IYdRbrh1KrVBrspZF5P9I6p
 
 ## Run Locally
 
